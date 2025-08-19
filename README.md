@@ -48,7 +48,7 @@ PetcCare/
 
 ```
 # Clone the repository
-
+```
 git clone https://github.com/m-dani-sh/pet-clinic
 
 # Navigate into project
@@ -59,7 +59,7 @@ npm install
 
 # Run development server
 npm run dev
-
+```
 ## 🔑 Environment Variables
 
 Before running this project, create a `.env.local` file in the root directory and add the following:
@@ -81,3 +81,17 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ADMIN=your_emailjs_template_admin
 
 # Admin Email
 NEXT_PUBLIC_ADMIN_EMAIL=your_admin_email
+```
+## 🙏 Acknowledgements
+- [Next.js](https://nextjs.org/)  
+- [TailwindCSS](https://tailwindcss.com/)  
+- [shadcn/ui](https://ui.shadcn.com/)  
+- [Firebase](https://firebase.google.com/)  
+- [EmailJS](https://www.emailjs.com/)  
+
+---
+
+## 📧 Contact
+Created with  by **Muhammad Danish**  
+- GitHub: https://github.com/m-dani-sh
+- LinkedIn: https://www.linkedin.com/in/muhammad-danish-2256522a1/
