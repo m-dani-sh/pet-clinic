@@ -8,12 +8,10 @@ It allows pet owners to **book appointments, manage records, and access services
 ## 🚀 Features
 
 - 📅 **Appointment Booking** – Seamless multi-step form to schedule vet visits.  
-- 🐶 **Pet Management** – Store pet details (name, type, etc.).  
 - 👨‍⚕️ **Doctor Selection** – Choose a specific doctor or let the system assign automatically.  
 - 📝 **Appointment Summary** – Professional confirmation page before booking.  
 - 🛠️ **Services Management** – Browse and select from available veterinary services (e.g., vaccination, grooming, check-ups).  
 - 📊 **User Dashboard** – Personalized dashboard to view upcoming appointments, pet details, and service history.  
-- 🔒 **Secure Data Handling** – Clean and secure backend logic.  
 - 🎨 **Modern UI/UX** – Built with Next.js, TailwindCSS, and shadcn/ui for a sleek design.  
 
 
